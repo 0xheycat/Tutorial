@@ -1,3 +1,5 @@
+Remote Desktop Protocol allows users to access remote systems desktops. The XRDP service provides you a graphical login to the remote machines using Microsoft RDP (​Remote Desktop Protocol). The XRDP also supports two-way clipboard transfer (text, bitmap, file), audio redirection, and drive redirection (mount local client drives on the remote machines).
+
 ## Step 1 – Install Desktop Environment
 Open a terminal and upgrade all installed packages with the following command:
 ```bash
